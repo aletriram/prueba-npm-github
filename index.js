@@ -1,3 +1,3 @@
 exports.print = function (msg) {
-	console.log('Mensaje: ' + msg);
+	console.log('Message: ' + msg);
 }
